@@ -8,6 +8,7 @@ Forever Leetcode
 | ------- |
 | [0088-merge-sorted-array](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +54,8 @@ Forever Leetcode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
