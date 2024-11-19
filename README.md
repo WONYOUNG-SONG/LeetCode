@@ -12,6 +12,7 @@ Forever Leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +49,8 @@ Forever Leetcode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
