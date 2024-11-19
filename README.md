@@ -7,6 +7,7 @@ Forever Leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +44,8 @@ Forever Leetcode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/WONYOUNG-SONG/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
